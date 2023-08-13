@@ -1,0 +1,8 @@
+'draw a graph between Parameter and Weight H2 in Table 1', (0, 202)
+'Draw a Graph between H1 and Paramter', (512, 106)
+'Check if Sr.No. same in both files', (1024, 52)
+'Check if Sr.No. same in both files,Check if Parameter is same in both files', (1536, 246)
+'Check if Sr.No. same in both files,Check if Parameter is same in both files,Check if UOM is same in both files', (2048, 344)
+'Check if Sr.No. same in both files,Check if Parameter is same in both files,Check if UOM is same in both files,list   for all parameters  where  values in Weight FY 2022-23 H2  is same in Both files', (2560, 473)
+'list   for all parameters  where  values in Weight FY 2022-23 H2  is same in Both files', (3072, 103)
+'list   for all parameters  where  values in Weight FY 2022-23 H2 in table 2   is same in Both files', (3584, 141)

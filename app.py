@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from pandasai import PandasAI
+# from pandasai import PandasAI
 from pandasai.llm.openai import OpenAI
 from CSVreader import CSVreader1
 from PDFreader import PDFreader
